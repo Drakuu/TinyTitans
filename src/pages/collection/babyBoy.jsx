@@ -1,18 +1,18 @@
 import React, { useState } from "react";
 import Navbar from './addressNav'; // Reuse Navbar component
-import Logo from "../../assets/Images/BabyBoy/logo.png"; // Add more items as per requirement
-import Item1 from "../../assets/Images/BabyBoy/1.jpg";
-import Item2 from "../../assets/Images/BabyBoy/2.jpg";
-import Item3 from "../../assets/Images/BabyBoy/3.jpg";
-import Item4 from "../../assets/Images/BabyBoy/4.png";
-import Item5 from "../../assets/Images/BabyBoy/5.jpg";
-import Item6 from "../../assets/Images/BabyBoy/logo.png";
-import Item7 from "../../assets/Images/BabyBoy/7.jpg";
-import Item8 from "../../assets/Images/BabyBoy/8.png";
-import Item9 from "../../assets/Images/BabyBoy/9.jpg";
-import Item10 from "../../assets/Images/BabyBoy/10.png";
-import Item11 from "../../assets/Images/BabyBoy/11.png";
-import Item12 from "../../assets/Images/BabyBoy/12.jpg";
+import Logo from "../../../public/assets/Images/BabyBoy/logo.png"; // Add more items as per requirement
+import Item1 from "../../../public/assets/Images/BabyBoy/1.jpg";
+import Item2 from "../../../public/assets/Images/BabyBoy/2.jpg";
+import Item3 from "../../../public/assets/Images/BabyBoy/3.jpg";
+import Item4 from "../../../public/assets/Images/BabyBoy/4.png";
+import Item5 from "../../../public/assets/Images/BabyBoy/5.jpg";
+import Item6 from "../../../public/assets/Images/BabyBoy/logo.png";
+import Item7 from "../../../public/assets/Images/BabyBoy/7.jpg";
+import Item8 from "../../../public/assets/Images/BabyBoy/8.png";
+import Item9 from "../../../public/assets/Images/BabyBoy/9.jpg";
+import Item10 from "../../../public/assets/Images/BabyBoy/10.png";
+import Item11 from "../../../public/assets/Images/BabyBoy/11.png";
+import Item12 from "../../../public/assets/Images/BabyBoy/12.jpg";
 
 const BabyBoy = () => {
   const [cart, setCart] = useState([]);

@@ -1,13 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom'; // Import Link for navigation
-import dp1 from '../assets/Images/home/dp1.png';
-import dp2 from '../assets/Images/home/dp2.png';
-import dp3 from '../assets/Images/home/dp3.png';
-import dp4 from '../assets/Images/home/dp4.png';
-import dp5 from '../assets/Images/home/dp5.png';
-import dp6 from '../assets/Images/home/dp6.png';
-import dp7 from '../assets/Images/home/dp7.png';
-import dp8 from '../assets/Images/home/dp8.png';
+import dp1 from '../../public/assets/Images/home/dp1.png';
+import dp2 from '../../public/assets/Images/home/dp2.png';
+import dp3 from '../../public/assets/Images/home/dp3.png';
+import dp4 from '../../public/assets/Images/home/dp4.png'; 
+import dp5 from '../../public/assets/Images/home/dp5.png';
+import dp6 from '../../public/assets/Images/home/dp6.png';
+import dp7 from '../../public/assets/Images/home/dp7.png';
+import dp8 from '../../public/assets/Images/home/dp8.png';
 
 function Home() {
     const homeItems = [

@@ -3,18 +3,18 @@ import { useNavigate } from "react-router-dom";
 import Navbar from "./addressNav";
 
 // Import Images
-import Item1 from "../../assets/Images/Collections/1.jpg";
-import Item2 from "../../assets/Images/Collections/2.png";
-import Item3 from "../../assets/Images/Collections/3.png";
-import Item4 from "../../assets/Images/Collections/4.png";
-import Item5 from "../../assets/Images/Collections/5.png";
-import Item6 from "../../assets/Images/Collections/6.jpg";
-import Item7 from "../../assets/Images/Collections/7.png";
-import Item8 from "../../assets/Images/Collections/8.jpg";
-import Item9 from "../../assets/Images/Collections/1.jpg";
-import Item10 from "../../assets/Images/Collections/10.jpg";
-import Item11 from "../../assets/Images/Collections/11.jpg";
-import Item12 from "../../assets/Images/Collections/12.png";
+import Item1 from "../../../public/assets/Images/Collections/1.jpg";
+import Item2 from "../../../public/assets/Images/Collections/2.png";
+import Item3 from "../../../public/assets/Images/Collections/3.png";
+import Item4 from "../../../public/assets/Images/Collections/4.png";
+import Item5 from "../../../public/assets/Images/Collections/5.png";
+import Item6 from "../../../public/assets/Images/Collections/6.jpg";
+import Item7 from "../../../public/assets/Images/Collections/7.png";
+import Item8 from "../../../public/assets/Images/Collections/8.jpg";
+import Item9 from "../../../public/assets/Images/Collections/1.jpg";
+import Item10 from "../../../public/assets/Images/Collections/10.jpg";
+import Item11 from "../../../public/assets/Images/Collections/11.jpg";
+import Item12 from "../../../public/assets/Images/Collections/12.png";
 
 const Collection = () => {
     const navigate = useNavigate();

@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Search, User, ShoppingCart, ChevronDown, Menu, X } from "lucide-react";
 import { useCart } from "../context/CartContext"; // ✅ Import useCart
-import Logo from "../assets/Images/logo/logo-png.png";
+import Logo from "../../public/assets/Images/logo/logo-png.png";
 
 function NavBar({ hambar, sethambar }) {
     const [currency, setCurrency] = useState("USD");

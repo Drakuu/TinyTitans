@@ -1,15 +1,15 @@
 import React, { useState } from "react";
 import { Search, ShoppingCart, X } from "lucide-react"; // Lucide Icons
 import Navbar from "./addressNav";
-import Item1 from "../../assets/Images/Accessories/cable_texture_sweater_1_1200x450_crop_center.jpg";
-import Item2 from "../../assets/Images/Accessories/1.jpg";
-import Item3 from "../../assets/Images/Accessories/2.jpg";
-import Item4 from "../../assets/Images/Accessories/3.jpg";
-import Item5 from "../../assets/Images/Accessories/4.jpg";
-import Item6 from "../../assets/Images/Accessories/5.jpg";
-import Item7 from "../../assets/Images/Accessories/6.jpg";
-import Item8 from "../../assets/Images/Accessories/7.jpg";
-import Item9 from "../../assets/Images/Accessories/8.jpg";
+import Item1 from "../../../public/assets/Images/Accessories/cable_texture_sweater_1_1200x450_crop_center.jpg";
+import Item2 from "../../../public/assets/Images/Accessories/1.jpg";
+import Item3 from "../../../public/assets/Images/Accessories/2.jpg";
+import Item4 from "../../../public/assets/Images/Accessories/3.jpg";
+import Item5 from "../../../public/assets/Images/Accessories/4.jpg";
+import Item6 from "../../../public/assets/Images/Accessories/5.jpg";
+import Item7 from "../../../public/assets/Images/Accessories/6.jpg";
+import Item8 from "../../../public/assets/Images/Accessories/7.jpg";
+import Item9 from "../../../public/assets/Images/Accessories/8.jpg";
 import { useCart } from "../../context/CartContext"; // ✅ Fixed import
 
 const Accessories = () => {

@@ -1,18 +1,18 @@
 import React from 'react'
-import dp2 from '../assets/Images/home/dp2.png';
-import dp4 from '../assets/Images/home/dp4.png';
-import dp7 from '../assets/Images/home/dp7.png';
-import dp1 from '../assets/Images/home/dp1.png';
-import dp3 from '../assets/Images/home/dp3.png';
-import dp5 from '../assets/Images/home/dp5.png';
-import clothes1 from "../assets/Images/sectionall/clothes1.png";
-import clothes2 from "../assets/Images/sectionall/clothes2.png";
-import clothes3 from "../assets/Images/sectionall/clothes3.png";
-import clothes4 from "../assets/Images/sectionall/clothes4.png";
-import clothes16 from "../assets/Images/sectionall/clothes16.png";
-import clothes17 from "../assets/Images/sectionall/clothes17.png";
-import clothes18 from "../assets/Images/sectionall/clothes18.png";
-import clothes19 from "../assets/Images/sectionall/clothes19.png";
+import dp2 from '../../public/assets/Images/home/dp2.png';
+import dp4 from '../../public/assets/Images/home/dp4.png';
+import dp7 from '../../public/assets/Images/home/dp7.png';
+import dp1 from '../../public/assets/Images/home/dp1.png';
+import dp3 from '../../public/assets/Images/home/dp3.png';
+import dp5 from '../../public/assets/Images/home/dp5.png';
+import clothes1 from "../../public/assets/Images/sectionall/clothes1.png";
+import clothes2 from "../../public/assets/Images/sectionall/clothes2.png";
+import clothes3 from "../../public/assets/Images/sectionall/clothes3.png";
+import clothes4 from "../../public/assets/Images/sectionall/clothes4.png";
+import clothes16 from "../../public/assets/Images/sectionall/clothes16.png";
+import clothes17 from "../../public/assets/Images/sectionall/clothes17.png";
+import clothes18 from "../../public/assets/Images/sectionall/clothes18.png";
+import clothes19 from "../../public/assets/Images/sectionall/clothes19.png";
 
 function SectionsAll() {
 
