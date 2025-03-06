@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TinyTitans
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,6 @@ If you are developing a production application, we recommend using TypeScript an
 =======
 # TinyTitans
 >>>>>>> e20c8fc22f8c90e4a623a82029f7923063f95992
+=======
+# TinyTitans
+>>>>>>> 4d1c4133c566bf000420e40b5e2f336a33b7b103
